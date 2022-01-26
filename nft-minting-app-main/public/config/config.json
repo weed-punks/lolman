@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4ee6b87d547f9121301a2e186a575f7e52f6b196e9c8bb596a5c4d204d0474c9",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x4ee6b87d547f9121301a2e186a575f7e52f6b196e9c8bb596a5c4d204d0474c9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Weed Punks",
+  "SYMBOL": "WPNFT",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/weed-punks-2",
+  "SHOW_BACKGROUND": true
+}
